@@ -3,9 +3,10 @@
 
 comenzar hacemos esto!
 
-git push
+git pull
 
 git add --all
 
 git commit -m "un mensaje"
 
+git push
